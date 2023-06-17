@@ -2,7 +2,7 @@ Camper Cafe Menu
 -------------------
 This repository contains the HTML and CSS files for a simple cafe menu. The menu features a variety of coffee drinks and desserts, with prices listed for each item.
 
-HTML
+HTML/CSS
 -----
 The HTML file defines the structure of the menu, including the headings, images, and prices. The CSS file is used to style the menu, including the font, colors, and layout.
 
